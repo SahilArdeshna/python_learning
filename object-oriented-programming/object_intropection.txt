@@ -1,0 +1,2 @@
+1) What is intropection?
+-> An intropection in computer programming means the ability to determine the type of an object at runtime.

@@ -1,0 +1,11 @@
+1) what is object oriented programming(OOP)?
+-> OOP is a programming paradigm, or a specific way of designing a program. It allows us to think of the data in our program 
+   in terms of real-world objects, with both properties and behaviors. These objects can be passed around throughout our program.
+
+-> Properties define the state of the object. This is the data that the object stores. This data can be a built-in type like 
+   int, or even our own custom types we’ll create later.
+
+-> Behaviors are the actions our object can take. Oftentimes, this involves using or modifying the properties of our object.
+
+-> Object oriented programming(OOP) is a method of structuring a program by bundling related properties and behaviours into
+   individual objects.
