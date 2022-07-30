@@ -24,8 +24,8 @@ print(list(zip(my_strings, my_numbers)))
 scores = [73, 20, 65, 19, 76, 100, 88]
 
 
-def filter_scores(item):
-    return (item * 50) / 100 > 50
+def filter_scores(score):
+    return score > 50
 
 
 print(list(filter(filter_scores, scores)))
